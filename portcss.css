@@ -1,0 +1,101 @@
+
+body{
+    background-color: #292a2d;
+    
+    
+}
+
+h1{
+    font-size: 42px;
+}
+
+
+.class{
+    
+    margin-top: 180px;
+    margin-left: 195px;
+    margin-bottom: 500px;
+    color: #a9a9b3;
+}
+
+.intro{
+  
+   margin-top: 40px;
+    margin-left: -30px;
+    color: #a9a9b3;
+}
+
+.icons{
+    
+    margin-top: 37px;
+    font-size: 40px;
+    margin-left: 290px;
+}
+
+.mail{
+    color: rgb(97, 29, 161);
+}
+hr{
+    /* background-color:white; */
+    /* border-style: dotted; */
+    margin-left: -120px;
+    border-style: none;
+     border-top-style: groove;
+     border-color:#a9a9b3 ;
+     border-width: 2.5px;
+
+    width: 80%;
+}
+
+
+.fantasy{
+    width: 25%;
+}
+.float{
+    width: 50%;
+    float: left;
+    margin: 100px auto 100px auto;
+}
+ul {
+
+    list-style-type: none;
+    margin-top: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(97, 29, 161);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+  .endline{
+    margin-top: -310px;
+    text-align: center;
+  }
+
+
+
+  /* About page */
+  .Image{
+    width: 25%;
+    height: 25%;
+    display: flex;
+  }
+
+  .myself{
+    flex: auto;
+  }
